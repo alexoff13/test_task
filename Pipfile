@@ -4,9 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pandas = "*"
 matplotlib = "*"
-tabulate = "*"
 
 [dev-packages]
 
